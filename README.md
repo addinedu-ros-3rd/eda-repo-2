@@ -19,9 +19,9 @@ googlemaps==4.10.0
 ### 데이터 크롤링
 Crawling & analysis 폴더로 이동
 1. [Final_with_detail] project.ipynb 파일을 실행하여 서울시 주요 역에 대한 맛집 데이터 크롤링(상세 리뷰 포함)
-   * 크롤링 결과를 '1기본_OO역.csv'로 저장
+   * 크롤링 결과를 '../data/1기본_OO역.csv'로 저장
 3. [Final_without_detail] project.ipynb 파일을 실행하여 서울시 주요 역에 대한 맛집 데이터 크롤링(상세 리뷰 미포함)
-   * 크롤링 결과를 각각 '2상세_OO역.csv'로 저장
+   * 크롤링 결과를 각각 '../data/2상세_OO역.csv'로 저장
 ![project](https://github.com/addinedu-amr-4th/eda-repo-2/assets/87626122/8816bef4-95f6-4551-8c4d-f2bb39f04193)
 
 ### 데이터 분석
