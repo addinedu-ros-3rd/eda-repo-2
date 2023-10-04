@@ -39,3 +39,28 @@ Crawling & analysis 폴더에서 retaurant_analysis.ipynb 파일을 실행하여
 ![gangnam3040](https://github.com/addinedu-amr-4th/eda-repo-2/assets/87626122/6b4e5e0b-204a-46fb-bb4d-7f0cff92bbd3)
 
 
+
+
+## 서울시 지역별 맛집 점수화 및 DataFrame 생성
+
+![image](https://github.com/addinedu-amr-4th/eda-repo-2/assets/97663670/cec0454b-2a65-4e6d-8b83-3acca1486f22)
+
+```
+️❓ 역 별 맛집은 알겠는데.. 가시성을 개선하고 싶다.
+💡 ** 시각화 및 GUI화 !! **
+```
+1. Folium, 맛집 정보 시각화
+
+2. Tkinter, 맛집 정보 GUI화
+
+3. Pyinstaller, 코드 배포를 위한 프로그램화
+
+## 서울시 지역별 맛집 추천 프로그램 : 쩝쩝박사.exe
+
+> Tkinter를 사용해 맛집 추천 GUI 창 생성
+> Pyinstaller를 사용해 파이썬 코드의 실행 프로그램화
+![image](https://github.com/addinedu-amr-4th/eda-repo-2/assets/97663670/b1d2f0ce-9f12-4f6f-a23e-24fea6040ba6)
+
+> 프로그램 개요도
+![image](https://github.com/addinedu-amr-4th/eda-repo-2/assets/97663670/978425d6-ba60-4517-9434-df9a8e56b32a)
+
