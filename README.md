@@ -23,6 +23,7 @@ Crawling & analysis 폴더로 이동
 ### 데이터 분석
 Crawling & analysis 폴더에서 retaurant_analysis.ipynb 파일을 실행하여 분석 및 시각화 결과 확인
 
+![project](https://github.com/addinedu-amr-4th/eda-repo-2/assets/87626122/8816bef4-95f6-4551-8c4d-f2bb39f04193)
 
 
 
