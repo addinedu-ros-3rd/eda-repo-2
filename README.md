@@ -57,7 +57,8 @@ Crawling & analysis 폴더에서 retaurant_analysis.ipynb 파일을 실행하여
 
 ## 서울시 지역별 맛집 추천 프로그램 : 쩝쩝박사.exe
 
-> Tkinter를 사용해 맛집 추천 GUI 창 생성 
+> Tkinter를 사용해 맛집 추천 GUI 창 생성
+/
 > Pyinstaller를 사용해 파이썬 코드의 실행 프로그램화 
 ![image](https://github.com/addinedu-amr-4th/eda-repo-2/assets/97663670/b1d2f0ce-9f12-4f6f-a23e-24fea6040ba6)
 
